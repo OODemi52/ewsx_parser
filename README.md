@@ -57,7 +57,7 @@ You can submit your solution for others to see. As an engineer, you have to be b
 
 
 ## Final Considerations
-1. You will probably struggle with this project, and depending on who you are an what you want, that might be okay. If you're looking for a quick and easy project to fluff your portfolio, **this might not be the one for you**. There is *intetionally* no guide for this, no tutorial, and it is a project based on software that is not popular, so there is not much written about it. If, on the other hand, you're looking for a bit more of a challenge, want to learn more, improve/sharpen your skills, or are just someone that really likes EasyWorship, then you've come to the right place! **You will still struggle** but that process of struggling throught the problem is **CRUCIAL** to learning deeply
+1. You will probably struggle with this project, and depending on who you are an what you want, that might be okay. If you're looking for a quick and easy project to fluff your portfolio, **this might not be the one for you**. There is *intetionally* no guide for this, no tutorial, and it is a project based on software that is not popular, so there is not much written about it. If, on the other hand, you're looking for a bit more of a challenge, want to learn more, improve/sharpen your skills, or are just someone that really likes EasyWorship, then you've come to the right place! **You will still struggle** but that process of struggling throught the problem is **CRUCIAL** to learning deeply.
 
 ***
 ### **⚠️Warning⚠️**
