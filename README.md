@@ -52,6 +52,7 @@ Since [EasyWorship](https://www.easyworship.com) does not support ARM or non-Win
 You can submit your solution for others to see. As an engineer, you have to be both confident in your work but also willing to accept your wrong or don't know something (it will be like this for as long as you live - engineers are life long learners!). If I have time, I might even try and review your solution
 
 4.
+- [Switch](https://git-scm.com/docs/git-checkout) to the `solutions` Git branch.
 - Submit a pull request to the `solutions` branch.
 
 
